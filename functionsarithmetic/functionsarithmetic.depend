@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1753089245 source:c:\users\kushi\documents\custom office templates\functionsarithmetic\main.c
+	<stdio.h>
+	<stdlib.h>
+
