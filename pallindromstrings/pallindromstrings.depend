@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1753074375 source:c:\users\kushi\documents\custom office templates\pallindromstrings\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
