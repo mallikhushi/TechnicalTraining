@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1752645278 source:c:\users\kushi\documents\custom office templates\atm\main.c
+	<stdio.h>
+	<stdlib.h>
+

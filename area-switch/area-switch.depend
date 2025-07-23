@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1752641471 source:c:\users\kushi\documents\custom office templates\area-switch\main.c
+	<stdio.h>
+	<stdlib.h>
+
